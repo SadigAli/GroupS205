@@ -1,0 +1,15 @@
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\bin\Debug\net6.0\ArrayAndStringMethods.exe
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\bin\Debug\net6.0\ArrayAndStringMethods.deps.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\bin\Debug\net6.0\ArrayAndStringMethods.runtimeconfig.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\bin\Debug\net6.0\ArrayAndStringMethods.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\bin\Debug\net6.0\ArrayAndStringMethods.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\obj\Debug\net6.0\ArrayAndStringMethods.csproj.AssemblyReference.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\obj\Debug\net6.0\ArrayAndStringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\obj\Debug\net6.0\ArrayAndStringMethods.AssemblyInfoInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\obj\Debug\net6.0\ArrayAndStringMethods.AssemblyInfo.cs
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\obj\Debug\net6.0\ArrayAndStringMethods.csproj.CoreCompileInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\obj\Debug\net6.0\ArrayAndStringMethods.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\obj\Debug\net6.0\refint\ArrayAndStringMethods.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\obj\Debug\net6.0\ArrayAndStringMethods.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\obj\Debug\net6.0\ArrayAndStringMethods.genruntimeconfig.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ArrayAndStringMethods\obj\Debug\net6.0\ref\ArrayAndStringMethods.dll
