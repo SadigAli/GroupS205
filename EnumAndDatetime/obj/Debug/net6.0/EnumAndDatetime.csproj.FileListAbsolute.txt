@@ -1,0 +1,15 @@
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\bin\Debug\net6.0\EnumAndDatetime.exe
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\bin\Debug\net6.0\EnumAndDatetime.deps.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\bin\Debug\net6.0\EnumAndDatetime.runtimeconfig.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\bin\Debug\net6.0\EnumAndDatetime.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\bin\Debug\net6.0\EnumAndDatetime.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\obj\Debug\net6.0\EnumAndDatetime.csproj.AssemblyReference.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\obj\Debug\net6.0\EnumAndDatetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\obj\Debug\net6.0\EnumAndDatetime.AssemblyInfoInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\obj\Debug\net6.0\EnumAndDatetime.AssemblyInfo.cs
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\obj\Debug\net6.0\EnumAndDatetime.csproj.CoreCompileInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\obj\Debug\net6.0\EnumAndDatetime.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\obj\Debug\net6.0\refint\EnumAndDatetime.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\obj\Debug\net6.0\EnumAndDatetime.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\obj\Debug\net6.0\EnumAndDatetime.genruntimeconfig.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EnumAndDatetime\obj\Debug\net6.0\ref\EnumAndDatetime.dll

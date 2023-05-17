@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {}
+    "C:\\Users\\sadig\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Desktop\\C#-Group-4\\TwoDimensinonalArray\\TwoDimensionalArray\\TwoDimensionalArray.csproj",
+      "projectUniqueName": "C:\\Users\\sadig\\OneDrive\\Desktop\\GroupS205\\TwoDimensionalArray\\TwoDimensionalArray.csproj",
       "projectName": "TwoDimensionalArray",
-      "projectPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\C#-Group-4\\TwoDimensinonalArray\\TwoDimensionalArray\\TwoDimensionalArray.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\C#-Group-4\\TwoDimensinonalArray\\TwoDimensionalArray\\obj\\",
+      "projectPath": "C:\\Users\\sadig\\OneDrive\\Desktop\\GroupS205\\TwoDimensionalArray\\TwoDimensionalArray.csproj",
+      "packagesPath": "C:\\Users\\sadig\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sadig\\OneDrive\\Desktop\\GroupS205\\TwoDimensionalArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sadig\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
