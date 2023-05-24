@@ -1,0 +1,15 @@
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\bin\Debug\net6.0\ClassAndStruct.exe
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\bin\Debug\net6.0\ClassAndStruct.deps.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\bin\Debug\net6.0\ClassAndStruct.runtimeconfig.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\bin\Debug\net6.0\ClassAndStruct.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\bin\Debug\net6.0\ClassAndStruct.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\obj\Debug\net6.0\ClassAndStruct.csproj.AssemblyReference.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\obj\Debug\net6.0\ClassAndStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\obj\Debug\net6.0\ClassAndStruct.AssemblyInfoInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\obj\Debug\net6.0\ClassAndStruct.AssemblyInfo.cs
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\obj\Debug\net6.0\ClassAndStruct.csproj.CoreCompileInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\obj\Debug\net6.0\ClassAndStruct.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\obj\Debug\net6.0\refint\ClassAndStruct.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\obj\Debug\net6.0\ClassAndStruct.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\obj\Debug\net6.0\ClassAndStruct.genruntimeconfig.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ClassAndStruct\obj\Debug\net6.0\ref\ClassAndStruct.dll
