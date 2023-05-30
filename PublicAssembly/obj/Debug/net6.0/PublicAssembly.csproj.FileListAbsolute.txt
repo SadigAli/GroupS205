@@ -1,0 +1,12 @@
+C:\Users\sadig\OneDrive\Desktop\GroupS205\PublicAssembly\bin\Debug\net6.0\PublicAssembly.deps.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\PublicAssembly\bin\Debug\net6.0\PublicAssembly.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\PublicAssembly\bin\Debug\net6.0\PublicAssembly.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\PublicAssembly\obj\Debug\net6.0\PublicAssembly.csproj.AssemblyReference.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\PublicAssembly\obj\Debug\net6.0\PublicAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadig\OneDrive\Desktop\GroupS205\PublicAssembly\obj\Debug\net6.0\PublicAssembly.AssemblyInfoInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\PublicAssembly\obj\Debug\net6.0\PublicAssembly.AssemblyInfo.cs
+C:\Users\sadig\OneDrive\Desktop\GroupS205\PublicAssembly\obj\Debug\net6.0\PublicAssembly.csproj.CoreCompileInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\PublicAssembly\obj\Debug\net6.0\PublicAssembly.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\PublicAssembly\obj\Debug\net6.0\refint\PublicAssembly.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\PublicAssembly\obj\Debug\net6.0\PublicAssembly.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\PublicAssembly\obj\Debug\net6.0\ref\PublicAssembly.dll

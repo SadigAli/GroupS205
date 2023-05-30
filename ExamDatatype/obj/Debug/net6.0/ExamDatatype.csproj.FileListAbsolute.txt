@@ -1,0 +1,15 @@
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\bin\Debug\net6.0\ExamDatatype.exe
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\bin\Debug\net6.0\ExamDatatype.deps.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\bin\Debug\net6.0\ExamDatatype.runtimeconfig.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\bin\Debug\net6.0\ExamDatatype.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\bin\Debug\net6.0\ExamDatatype.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\obj\Debug\net6.0\ExamDatatype.csproj.AssemblyReference.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\obj\Debug\net6.0\ExamDatatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\obj\Debug\net6.0\ExamDatatype.AssemblyInfoInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\obj\Debug\net6.0\ExamDatatype.AssemblyInfo.cs
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\obj\Debug\net6.0\ExamDatatype.csproj.CoreCompileInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\obj\Debug\net6.0\ExamDatatype.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\obj\Debug\net6.0\refint\ExamDatatype.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\obj\Debug\net6.0\ExamDatatype.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\obj\Debug\net6.0\ExamDatatype.genruntimeconfig.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\ExamDatatype\obj\Debug\net6.0\ref\ExamDatatype.dll

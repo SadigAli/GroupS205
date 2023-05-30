@@ -37,5 +37,9 @@ namespace ClassAndStruct
         {
             return $"{GetFullName()} {Profession}";
         }
+
+
     }
+
+
 }
