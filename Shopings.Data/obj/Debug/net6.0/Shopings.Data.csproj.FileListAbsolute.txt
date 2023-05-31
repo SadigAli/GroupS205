@@ -1,0 +1,14 @@
+C:\Users\sadig\OneDrive\Desktop\GroupS205\Shopings.Data\bin\Debug\net6.0\Shopings.Data.deps.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\Shopings.Data\bin\Debug\net6.0\Shopings.Data.runtimeconfig.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\Shopings.Data\bin\Debug\net6.0\Shopings.Data.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\Shopings.Data\bin\Debug\net6.0\Shopings.Data.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\Shopings.Data\obj\Debug\net6.0\Shopings.Data.csproj.AssemblyReference.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\Shopings.Data\obj\Debug\net6.0\Shopings.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadig\OneDrive\Desktop\GroupS205\Shopings.Data\obj\Debug\net6.0\Shopings.Data.AssemblyInfoInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\Shopings.Data\obj\Debug\net6.0\Shopings.Data.AssemblyInfo.cs
+C:\Users\sadig\OneDrive\Desktop\GroupS205\Shopings.Data\obj\Debug\net6.0\Shopings.Data.csproj.CoreCompileInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\Shopings.Data\obj\Debug\net6.0\Shopings.Data.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\Shopings.Data\obj\Debug\net6.0\refint\Shopings.Data.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\Shopings.Data\obj\Debug\net6.0\Shopings.Data.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\Shopings.Data\obj\Debug\net6.0\Shopings.Data.genruntimeconfig.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\Shopings.Data\obj\Debug\net6.0\ref\Shopings.Data.dll
