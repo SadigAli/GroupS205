@@ -1,0 +1,15 @@
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\bin\Debug\net6.0\TaskForUserManagement.exe
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\bin\Debug\net6.0\TaskForUserManagement.deps.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\bin\Debug\net6.0\TaskForUserManagement.runtimeconfig.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\bin\Debug\net6.0\TaskForUserManagement.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\bin\Debug\net6.0\TaskForUserManagement.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\obj\Debug\net6.0\TaskForUserManagement.csproj.AssemblyReference.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\obj\Debug\net6.0\TaskForUserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\obj\Debug\net6.0\TaskForUserManagement.AssemblyInfoInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\obj\Debug\net6.0\TaskForUserManagement.AssemblyInfo.cs
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\obj\Debug\net6.0\TaskForUserManagement.csproj.CoreCompileInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\obj\Debug\net6.0\TaskForUserManagement.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\obj\Debug\net6.0\refint\TaskForUserManagement.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\obj\Debug\net6.0\TaskForUserManagement.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\obj\Debug\net6.0\TaskForUserManagement.genruntimeconfig.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\TaskForUserManagement\obj\Debug\net6.0\ref\TaskForUserManagement.dll
