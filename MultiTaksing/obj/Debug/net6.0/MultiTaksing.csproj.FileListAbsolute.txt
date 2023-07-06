@@ -1,0 +1,15 @@
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\bin\Debug\net6.0\MultiTaksing.exe
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\bin\Debug\net6.0\MultiTaksing.deps.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\bin\Debug\net6.0\MultiTaksing.runtimeconfig.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\bin\Debug\net6.0\MultiTaksing.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\bin\Debug\net6.0\MultiTaksing.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\obj\Debug\net6.0\MultiTaksing.csproj.AssemblyReference.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\obj\Debug\net6.0\MultiTaksing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\obj\Debug\net6.0\MultiTaksing.AssemblyInfoInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\obj\Debug\net6.0\MultiTaksing.AssemblyInfo.cs
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\obj\Debug\net6.0\MultiTaksing.csproj.CoreCompileInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\obj\Debug\net6.0\MultiTaksing.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\obj\Debug\net6.0\refint\MultiTaksing.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\obj\Debug\net6.0\MultiTaksing.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\obj\Debug\net6.0\MultiTaksing.genruntimeconfig.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\MultiTaksing\obj\Debug\net6.0\ref\MultiTaksing.dll

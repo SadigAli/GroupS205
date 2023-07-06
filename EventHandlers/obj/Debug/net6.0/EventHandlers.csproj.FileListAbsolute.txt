@@ -1,0 +1,15 @@
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\bin\Debug\net6.0\EventHandlers.exe
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\bin\Debug\net6.0\EventHandlers.deps.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\bin\Debug\net6.0\EventHandlers.runtimeconfig.json
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\bin\Debug\net6.0\EventHandlers.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\bin\Debug\net6.0\EventHandlers.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\obj\Debug\net6.0\EventHandlers.csproj.AssemblyReference.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\obj\Debug\net6.0\EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\obj\Debug\net6.0\EventHandlers.AssemblyInfoInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\obj\Debug\net6.0\EventHandlers.AssemblyInfo.cs
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\obj\Debug\net6.0\EventHandlers.csproj.CoreCompileInputs.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\obj\Debug\net6.0\EventHandlers.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\obj\Debug\net6.0\refint\EventHandlers.dll
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\obj\Debug\net6.0\EventHandlers.pdb
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\obj\Debug\net6.0\EventHandlers.genruntimeconfig.cache
+C:\Users\sadig\OneDrive\Desktop\GroupS205\EventHandlers\obj\Debug\net6.0\ref\EventHandlers.dll
